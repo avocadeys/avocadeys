@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-i don't know…
+i care a lot about open-source software
 </p>
 
 <p align="center">
