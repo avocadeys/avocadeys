@@ -17,7 +17,3 @@ i care a lot about open-source software
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=avocadeys&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Github stats"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&line1=neovim,neovim,a6e3a1;git,git,f38ba8;alacritty,alacritty,fab387;" alt="Tools" />
-</p>
