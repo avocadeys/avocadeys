@@ -1,7 +1,3 @@
-<h3 align="center">
-	<img src="https://raw.githubusercontent.com/avocadeys/avocadeys/main/assets/icon/circle_icon.png" width="100" alt="Icon"/>
-</h3>
-
 <p align="center">
 i care a lot about open-source software
 </p>
